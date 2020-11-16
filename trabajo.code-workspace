@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../curso_2_python/estebanyanez"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "front-end"
+	}
+}

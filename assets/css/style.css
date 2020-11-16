@@ -1,0 +1,356 @@
+
+body{
+    padding: 0px;
+    margin: 100px;
+}
+
+#tabla,td,th,tr{
+    margin: auto;
+    border: solid 3px silver ;
+    border-collapse: collapse;
+    font-size: 15px;
+    color: black;
+}
+th,td{
+    padding: 10px;
+}
+
+
+
+#nav-bar{
+    margin-left: 800px;
+    display: flex;
+}
+#home{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#home1{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#home2{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#home3{
+    background-color: chartreuse;
+    box-shadow: 3px 3px;
+}
+#home4{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#home5{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+
+#about{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#about1{
+    background-color: chartreuse;
+    box-shadow: 3px 3px;
+}
+#about2{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#about3{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#about4{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#about5{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+
+#contact{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#contact1{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#contact2{
+    background-color: chartreuse;
+    box-shadow: 3px 3px;
+}
+#contact3{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#contact4{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#contact5{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#reglas{
+    background-color: chartreuse;
+    box-shadow: 3px 3px;
+}
+#reglas1{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#reglas2{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#reglas3{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#reglas4{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#reglas5{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#games5{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+
+#games4{
+    background-color: chartreuse;
+    box-shadow: 3px 3px;
+}
+#games1{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#games3{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#games2{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#games{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#fomr1{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#fomr2{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#fomr3{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#fomr4{
+    background-color: mediumblue;
+    box-shadow: 3px 3px;
+}
+#fomr5{
+    background-color: chartreuse;
+    box-shadow: 3px 3px;
+}
+
+
+.contedenor{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+}
+img{
+    width: 100%;
+    padding: 4px;
+    height: 290px;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-style: inherit;
+}
+
+h2{
+    color: black;
+    text-align: center;
+    font-style: normal;
+}
+h3{
+    color: black;
+    margin-left: 100px;
+}
+
+p{
+    color: black;
+    text-align: center;
+    top: 0%;
+}
+p1{
+    font-weight: bold;
+}
+#h31{
+    color: black;
+    font-weight: bold;
+    margin-left: 100px;
+
+}
+#texto1{
+    text-align: justify;
+    color: black;
+    margin-left: 230px;
+    margin-right: 330px;
+    list-style-type: square;
+}
+li{
+    color: black;
+    margin-left: 230px;
+    margin-right: 330px;
+    text-align: justify;
+    
+}
+#letra{
+    list-style-type: lower-alpha;
+    color: black;
+    text-align: justify;
+}
+#tx2{
+    color: black;
+}
+#texto2{
+    text-align: justify;
+    color: black;
+    margin-left: 230px;
+    margin-right: 330px;
+    list-style-type: circle;
+
+}
+.logo{
+    position:absolute;
+    top: 65%;
+    height: 130px;
+    width: 130px;
+}
+#parrafo{
+    color: black;
+    margin-left: 130px;
+    text-align: justify;
+    }
+
+    h4{
+        background-color: #ffffff;
+        color: black;
+        text-align: center;
+        border-style: solid;
+        border-color: black;
+        width: 100%;
+    }
+
+    #titulo{
+        margin-left: 100px;
+        color: black;
+        text-align: justify;
+        }
+
+        #texto{
+            
+            float :right;
+            display: inline;
+        }
+#gamestxt{
+    text-align: justify;
+    width: 600px;
+    
+
+    
+    
+}
+.game{
+    text-align: left;
+}
+.div{
+    color: black;
+
+}
+label{
+    color: black;
+}
+#formp{
+    text-align: left;
+}
+#txt5{
+    color: black;
+    text-align: justify;
+}
+.grid_container{
+     display: grid;
+     grid-template-columns: auto;
+     grid-gap: 10px;
+     background-color: slateblue;
+     padding: 10px;
+}
+.grid_container>div{
+    background-color: yellow;
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+}
+.grid-1{
+    grid-column: 1 / span 2;
+    grid-row: 1;
+}
+.grid-2{
+    grid-column: 3;
+    grid-row: 1 / span 2;
+}
+.grid-5{
+    grid-column:  1 / span 3;
+    grid-row: 3;
+}
+form{
+    display: grid;
+    padding: 1em;
+    background: whitesmoke;
+    border: 1px solid violet;
+    margin: 2rem auto 0 auto;
+    max-width: 600px;
+    padding: 1em;
+}
+
+form input {
+    background: whitesmoke;
+    border: 1px solid violet;
+  }
+input:focus {
+    outline: 3px solid gold;
+  }
+
+  
+#abMap{
+    display: grid;
+    justify-content: center;
+}
+
+@media (min-width: 600px){
+    #responsive{
+        grid-column: auto;
+
+    }
+
+}
+
+
+
+
+
